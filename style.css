@@ -19,3 +19,8 @@ th { background:var(--card); }
 .draft { background:var(--warn); color:var(--warn-text); padding:.75rem 1rem; border-radius:8px; margin:1.25rem 0; }
 .card { background:var(--card); border:1px solid var(--rule); border-radius:12px; padding:1rem 1.25rem; margin:1rem 0; }
 footer { border-top:1px solid var(--rule); margin-top:2rem; padding-top:1rem; padding-bottom:2rem; color:var(--muted); font-size:.9rem; }
+
+.hero { width:100%; height:auto; border-radius:12px; margin-top:1.25rem; }
+ul { padding-left:1.25rem; }
+.card ul { margin:.4rem 0 0; }
+main, header, footer { overflow-wrap:anywhere; }
